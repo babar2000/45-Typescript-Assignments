@@ -1,0 +1,13 @@
+let worldPlaces = ["pakistan", "america", "england", "canada", "australia"];
+console.log(worldPlaces);
+const myArray = [...worldPlaces].sort();
+console.log(myArray);
+const myArray2 = [...worldPlaces].sort().reverse();
+console.log(myArray2);
+const myArray3 = [...worldPlaces].reverse();
+console.log(myArray3);
+const myArray4 = [...worldPlaces].sort();
+console.log(myArray4);
+const myArray5 = [...worldPlaces].sort().reverse();
+console.log(myArray5);
+export {};
