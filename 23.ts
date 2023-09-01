@@ -1,0 +1,17 @@
+let car:string="Honda";
+console.log("Is car==='Honda?' I predict true.");
+console.log(car==='Honda');
+console.log("Is car==='Toyota?' I predict false");
+console.log(car==='Toyota');
+console.log("Is car!=='Ferari' I predict true");
+console.log(car!=='Ferari');
+console.log("Is car =='Honda' I predict true");
+console.log(car=='Honda');
+console.log("Is car.length<3 I predict false");
+console.log(car.length<3);
+console.log("Is car.length>4 I predict true");
+console.log(car.length>4);
+console.log("Is car!=='Honda' I predict false");
+console.log(car!=='Honda');
+console.log("Is car=='Suzuki' I predict false");
+console.log(car=='Suzuki');
